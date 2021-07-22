@@ -1,6 +1,6 @@
 {
   "name": "@wanqi-cli/utils",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Wanqi-wq <1457208272@qq.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "publishConfig": {
-		"registry": "https://github.com/Wanqi-wq/wanqi-cli-dev.git"
-	}
+    "registry": "https://github.com/Wanqi-wq/wanqi-cli-dev.git"
+  }
 }

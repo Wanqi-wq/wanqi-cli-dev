@@ -1,6 +1,6 @@
 {
   "name": "@wanqi-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Wanqi-wq <1457208272@qq.com>",
   "homepage": "",
@@ -18,6 +18,6 @@
   },
   "gitHead": "6bbb591d6222528c373286e2a5ca29fdd01380f9",
   "publishConfig": {
-		"registry": "https://github.com/Wanqi-wq/wanqi-cli-dev.git"
-	}
+    "registry": "https://github.com/Wanqi-wq/wanqi-cli-dev.git"
+  }
 }
