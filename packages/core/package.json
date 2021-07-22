@@ -1,11 +1,14 @@
 {
   "name": "@wanqi-cli/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Wanqi-wq <1457208272@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin":{
+    "wanqi-cli-dev":"bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
